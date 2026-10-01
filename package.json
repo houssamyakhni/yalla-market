@@ -1,0 +1,32 @@
+{
+  "name": "yalla-market",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 0.0.0.0",
+    "build": "next build --webpack",
+    "start": "next start --hostname 0.0.0.0",
+    "seed": "node --env-file=.env.local scripts/seed.mjs",
+    "check": "tsc --noEmit",
+    "admin:password": "node scripts/reset-admin.mjs",
+    "test": "node --experimental-strip-types --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "next": "^16.0.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "mongodb": "^6.21.0",
+    "lucide-react": "^0.468.0",
+    "zod": "^4.0.0",
+    "server-only": "^0.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.0",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  }
+}

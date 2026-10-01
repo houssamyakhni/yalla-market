@@ -1,0 +1,13 @@
+.env*
+admin-access.txt
+*.log
+*.zip
+work/
+node_modules/
+.git/
+QA-RESULTS.json
+LIVE-QA-RESULTS.json
+ATLAS-VERIFICATION.json
+BUILD-VERIFICATION.json
+VARIANT-IMAGE-PROVENANCE.json
+VARIANT-PROMPTS-GROUP-*.json

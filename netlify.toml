@@ -1,0 +1,11 @@
+[build]
+  command = "npm run build && node scripts/prepare-netlify.mjs"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "22"
+  NEXT_TELEMETRY_DISABLED = "1"
+
+[functions]
+  node_bundler = "esbuild"
+  external_node_modules = ["mongodb"]

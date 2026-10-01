@@ -1,0 +1,5082 @@
+[
+  {
+    "id": "sample-001",
+    "slug": "fashion-sample-001",
+    "name": "Everyday tee 01",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Fashion",
+    "price": 1337,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/fashion-ocean.svg",
+      "/sample-images/fashion-sand.svg",
+      "/sample-images/fashion-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/fashion-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/fashion-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/fashion-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 16,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0001",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-002",
+    "slug": "fashion-sample-002",
+    "name": "Relaxed shirt 02",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Fashion",
+    "price": 1474,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/fashion-ocean.svg",
+      "/sample-images/fashion-sand.svg",
+      "/sample-images/fashion-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/fashion-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/fashion-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/fashion-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 17,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0002",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-003",
+    "slug": "fashion-sample-003",
+    "name": "Soft knit 03",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Fashion",
+    "price": 1611,
+    "compareAtPrice": 2611,
+    "images": [
+      "/sample-images/fashion-ocean.svg",
+      "/sample-images/fashion-sand.svg",
+      "/sample-images/fashion-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/fashion-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/fashion-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/fashion-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 18,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0003",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-004",
+    "slug": "fashion-sample-004",
+    "name": "Casual jacket 04",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Fashion",
+    "price": 1748,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/fashion-ocean.svg",
+      "/sample-images/fashion-sand.svg",
+      "/sample-images/fashion-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/fashion-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/fashion-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/fashion-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 19,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0004",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-005",
+    "slug": "fashion-sample-005",
+    "name": "Everyday tee 05",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Fashion",
+    "price": 1885,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/fashion-ocean.svg",
+      "/sample-images/fashion-sand.svg",
+      "/sample-images/fashion-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/fashion-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/fashion-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/fashion-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 20,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0005",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-006",
+    "slug": "fashion-sample-006",
+    "name": "Relaxed shirt 06",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Fashion",
+    "price": 2022,
+    "compareAtPrice": 3022,
+    "images": [
+      "/sample-images/fashion-ocean.svg",
+      "/sample-images/fashion-sand.svg",
+      "/sample-images/fashion-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/fashion-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/fashion-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/fashion-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 21,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0006",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-007",
+    "slug": "fashion-sample-007",
+    "name": "Soft knit 07",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Fashion",
+    "price": 2159,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/fashion-ocean.svg",
+      "/sample-images/fashion-sand.svg",
+      "/sample-images/fashion-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/fashion-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/fashion-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/fashion-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 22,
+    "featured": true,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0007",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-008",
+    "slug": "fashion-sample-008",
+    "name": "Casual jacket 08",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Fashion",
+    "price": 2296,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/fashion-ocean.svg",
+      "/sample-images/fashion-sand.svg",
+      "/sample-images/fashion-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/fashion-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/fashion-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/fashion-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 23,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0008",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-009",
+    "slug": "fashion-sample-009",
+    "name": "Everyday tee 09",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Fashion",
+    "price": 2433,
+    "compareAtPrice": 3433,
+    "images": [
+      "/sample-images/fashion-ocean.svg",
+      "/sample-images/fashion-sand.svg",
+      "/sample-images/fashion-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/fashion-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/fashion-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/fashion-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 24,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0009",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-010",
+    "slug": "fashion-sample-010",
+    "name": "Relaxed shirt 10",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Fashion",
+    "price": 2570,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/fashion-ocean.svg",
+      "/sample-images/fashion-sand.svg",
+      "/sample-images/fashion-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/fashion-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/fashion-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/fashion-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 25,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0010",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-011",
+    "slug": "fashion-sample-011",
+    "name": "Soft knit 11",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Fashion",
+    "price": 2707,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/fashion-ocean.svg",
+      "/sample-images/fashion-sand.svg",
+      "/sample-images/fashion-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/fashion-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/fashion-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/fashion-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 26,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0011",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-012",
+    "slug": "fashion-sample-012",
+    "name": "Casual jacket 12",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Fashion",
+    "price": 2844,
+    "compareAtPrice": 3844,
+    "images": [
+      "/sample-images/fashion-ocean.svg",
+      "/sample-images/fashion-sand.svg",
+      "/sample-images/fashion-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/fashion-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/fashion-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/fashion-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 27,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0012",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-013",
+    "slug": "fashion-sample-013",
+    "name": "Everyday tee 13",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Fashion",
+    "price": 2981,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/fashion-ocean.svg",
+      "/sample-images/fashion-sand.svg",
+      "/sample-images/fashion-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/fashion-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/fashion-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/fashion-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 28,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0013",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-014",
+    "slug": "fashion-sample-014",
+    "name": "Relaxed shirt 14",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Fashion",
+    "price": 3118,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/fashion-ocean.svg",
+      "/sample-images/fashion-sand.svg",
+      "/sample-images/fashion-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/fashion-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/fashion-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/fashion-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 29,
+    "featured": true,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0014",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-015",
+    "slug": "fashion-sample-015",
+    "name": "Soft knit 15",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Fashion",
+    "price": 3255,
+    "compareAtPrice": 4255,
+    "images": [
+      "/sample-images/fashion-ocean.svg",
+      "/sample-images/fashion-sand.svg",
+      "/sample-images/fashion-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/fashion-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/fashion-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/fashion-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 30,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0015",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-016",
+    "slug": "fashion-sample-016",
+    "name": "Casual jacket 16",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Fashion",
+    "price": 3392,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/fashion-ocean.svg",
+      "/sample-images/fashion-sand.svg",
+      "/sample-images/fashion-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/fashion-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/fashion-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/fashion-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 31,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0016",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-017",
+    "slug": "fashion-sample-017",
+    "name": "Everyday tee 17",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Fashion",
+    "price": 3529,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/fashion-ocean.svg",
+      "/sample-images/fashion-sand.svg",
+      "/sample-images/fashion-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/fashion-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/fashion-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/fashion-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 0,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0017",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-018",
+    "slug": "fashion-sample-018",
+    "name": "Relaxed shirt 18",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Fashion",
+    "price": 3666,
+    "compareAtPrice": 4666,
+    "images": [
+      "/sample-images/fashion-ocean.svg",
+      "/sample-images/fashion-sand.svg",
+      "/sample-images/fashion-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/fashion-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/fashion-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/fashion-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 33,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0018",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-019",
+    "slug": "fashion-sample-019",
+    "name": "Soft knit 19",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Fashion",
+    "price": 3803,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/fashion-ocean.svg",
+      "/sample-images/fashion-sand.svg",
+      "/sample-images/fashion-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/fashion-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/fashion-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/fashion-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 34,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0019",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-020",
+    "slug": "fashion-sample-020",
+    "name": "Casual jacket 20",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Fashion",
+    "price": 3940,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/fashion-ocean.svg",
+      "/sample-images/fashion-sand.svg",
+      "/sample-images/fashion-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/fashion-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/fashion-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/fashion-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 35,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0020",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-021",
+    "slug": "shoes-sample-021",
+    "name": "Everyday sneaker 01",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Shoes",
+    "price": 4077,
+    "compareAtPrice": 5077,
+    "images": [
+      "/sample-images/shoes-ocean.svg",
+      "/sample-images/shoes-sand.svg",
+      "/sample-images/shoes-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/shoes-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/shoes-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/shoes-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42"
+    ],
+    "stock": 36,
+    "featured": true,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0021",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-022",
+    "slug": "shoes-sample-022",
+    "name": "Weekend shoe 02",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Shoes",
+    "price": 4214,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/shoes-ocean.svg",
+      "/sample-images/shoes-sand.svg",
+      "/sample-images/shoes-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/shoes-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/shoes-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/shoes-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42"
+    ],
+    "stock": 37,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0022",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-023",
+    "slug": "shoes-sample-023",
+    "name": "Walking trainer 03",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Shoes",
+    "price": 4351,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/shoes-ocean.svg",
+      "/sample-images/shoes-sand.svg",
+      "/sample-images/shoes-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/shoes-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/shoes-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/shoes-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42"
+    ],
+    "stock": 38,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0023",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-024",
+    "slug": "shoes-sample-024",
+    "name": "Casual slip-on 04",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Shoes",
+    "price": 4488,
+    "compareAtPrice": 5488,
+    "images": [
+      "/sample-images/shoes-ocean.svg",
+      "/sample-images/shoes-sand.svg",
+      "/sample-images/shoes-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/shoes-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/shoes-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/shoes-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42"
+    ],
+    "stock": 39,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0024",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-025",
+    "slug": "shoes-sample-025",
+    "name": "Everyday sneaker 05",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Shoes",
+    "price": 4625,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/shoes-ocean.svg",
+      "/sample-images/shoes-sand.svg",
+      "/sample-images/shoes-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/shoes-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/shoes-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/shoes-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42"
+    ],
+    "stock": 40,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0025",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-026",
+    "slug": "shoes-sample-026",
+    "name": "Weekend shoe 06",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Shoes",
+    "price": 4762,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/shoes-ocean.svg",
+      "/sample-images/shoes-sand.svg",
+      "/sample-images/shoes-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/shoes-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/shoes-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/shoes-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42"
+    ],
+    "stock": 41,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0026",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-027",
+    "slug": "shoes-sample-027",
+    "name": "Walking trainer 07",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Shoes",
+    "price": 4899,
+    "compareAtPrice": 5899,
+    "images": [
+      "/sample-images/shoes-ocean.svg",
+      "/sample-images/shoes-sand.svg",
+      "/sample-images/shoes-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/shoes-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/shoes-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/shoes-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42"
+    ],
+    "stock": 42,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0027",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-028",
+    "slug": "shoes-sample-028",
+    "name": "Casual slip-on 08",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Shoes",
+    "price": 5036,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/shoes-ocean.svg",
+      "/sample-images/shoes-sand.svg",
+      "/sample-images/shoes-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/shoes-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/shoes-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/shoes-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42"
+    ],
+    "stock": 43,
+    "featured": true,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0028",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-029",
+    "slug": "shoes-sample-029",
+    "name": "Everyday sneaker 09",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Shoes",
+    "price": 5173,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/shoes-ocean.svg",
+      "/sample-images/shoes-sand.svg",
+      "/sample-images/shoes-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/shoes-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/shoes-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/shoes-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42"
+    ],
+    "stock": 44,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0029",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-030",
+    "slug": "shoes-sample-030",
+    "name": "Weekend shoe 10",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Shoes",
+    "price": 5310,
+    "compareAtPrice": 6310,
+    "images": [
+      "/sample-images/shoes-ocean.svg",
+      "/sample-images/shoes-sand.svg",
+      "/sample-images/shoes-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/shoes-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/shoes-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/shoes-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42"
+    ],
+    "stock": 15,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0030",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-031",
+    "slug": "shoes-sample-031",
+    "name": "Walking trainer 11",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Shoes",
+    "price": 5447,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/shoes-ocean.svg",
+      "/sample-images/shoes-sand.svg",
+      "/sample-images/shoes-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/shoes-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/shoes-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/shoes-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42"
+    ],
+    "stock": 16,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0031",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-032",
+    "slug": "shoes-sample-032",
+    "name": "Casual slip-on 12",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Shoes",
+    "price": 5584,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/shoes-ocean.svg",
+      "/sample-images/shoes-sand.svg",
+      "/sample-images/shoes-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/shoes-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/shoes-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/shoes-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42"
+    ],
+    "stock": 17,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0032",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-033",
+    "slug": "shoes-sample-033",
+    "name": "Everyday sneaker 13",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Shoes",
+    "price": 5721,
+    "compareAtPrice": 6721,
+    "images": [
+      "/sample-images/shoes-ocean.svg",
+      "/sample-images/shoes-sand.svg",
+      "/sample-images/shoes-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/shoes-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/shoes-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/shoes-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42"
+    ],
+    "stock": 18,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0033",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-034",
+    "slug": "shoes-sample-034",
+    "name": "Weekend shoe 14",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Shoes",
+    "price": 5858,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/shoes-ocean.svg",
+      "/sample-images/shoes-sand.svg",
+      "/sample-images/shoes-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/shoes-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/shoes-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/shoes-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42"
+    ],
+    "stock": 0,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0034",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-035",
+    "slug": "shoes-sample-035",
+    "name": "Walking trainer 15",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Shoes",
+    "price": 5995,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/shoes-ocean.svg",
+      "/sample-images/shoes-sand.svg",
+      "/sample-images/shoes-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/shoes-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/shoes-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/shoes-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42"
+    ],
+    "stock": 20,
+    "featured": true,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0035",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-036",
+    "slug": "shoes-sample-036",
+    "name": "Casual slip-on 16",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Shoes",
+    "price": 6132,
+    "compareAtPrice": 7132,
+    "images": [
+      "/sample-images/shoes-ocean.svg",
+      "/sample-images/shoes-sand.svg",
+      "/sample-images/shoes-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/shoes-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/shoes-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/shoes-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42"
+    ],
+    "stock": 21,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0036",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-037",
+    "slug": "shoes-sample-037",
+    "name": "Everyday sneaker 17",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Shoes",
+    "price": 6269,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/shoes-ocean.svg",
+      "/sample-images/shoes-sand.svg",
+      "/sample-images/shoes-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/shoes-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/shoes-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/shoes-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42"
+    ],
+    "stock": 22,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0037",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-038",
+    "slug": "shoes-sample-038",
+    "name": "Weekend shoe 18",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Shoes",
+    "price": 6406,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/shoes-ocean.svg",
+      "/sample-images/shoes-sand.svg",
+      "/sample-images/shoes-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/shoes-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/shoes-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/shoes-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42"
+    ],
+    "stock": 23,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0038",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-039",
+    "slug": "shoes-sample-039",
+    "name": "Walking trainer 19",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Shoes",
+    "price": 6543,
+    "compareAtPrice": 7543,
+    "images": [
+      "/sample-images/shoes-ocean.svg",
+      "/sample-images/shoes-sand.svg",
+      "/sample-images/shoes-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/shoes-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/shoes-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/shoes-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42"
+    ],
+    "stock": 24,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0039",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-040",
+    "slug": "shoes-sample-040",
+    "name": "Casual slip-on 20",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Shoes",
+    "price": 6680,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/shoes-ocean.svg",
+      "/sample-images/shoes-sand.svg",
+      "/sample-images/shoes-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/shoes-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/shoes-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/shoes-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42"
+    ],
+    "stock": 25,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0040",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-041",
+    "slug": "bags-sample-041",
+    "name": "Everyday tote 01",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Bags & accessories",
+    "price": 6817,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/bags-ocean.svg",
+      "/sample-images/bags-sand.svg",
+      "/sample-images/bags-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/bags-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/bags-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/bags-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 26,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0041",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-042",
+    "slug": "bags-sample-042",
+    "name": "Compact backpack 02",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Bags & accessories",
+    "price": 6954,
+    "compareAtPrice": 7954,
+    "images": [
+      "/sample-images/bags-ocean.svg",
+      "/sample-images/bags-sand.svg",
+      "/sample-images/bags-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/bags-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/bags-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/bags-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 27,
+    "featured": true,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0042",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-043",
+    "slug": "bags-sample-043",
+    "name": "Travel pouch 03",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Bags & accessories",
+    "price": 7091,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/bags-ocean.svg",
+      "/sample-images/bags-sand.svg",
+      "/sample-images/bags-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/bags-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/bags-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/bags-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 28,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0043",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-044",
+    "slug": "bags-sample-044",
+    "name": "Weekend bag 04",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Bags & accessories",
+    "price": 7228,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/bags-ocean.svg",
+      "/sample-images/bags-sand.svg",
+      "/sample-images/bags-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/bags-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/bags-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/bags-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 29,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0044",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-045",
+    "slug": "bags-sample-045",
+    "name": "Everyday tote 05",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Bags & accessories",
+    "price": 7365,
+    "compareAtPrice": 8365,
+    "images": [
+      "/sample-images/bags-ocean.svg",
+      "/sample-images/bags-sand.svg",
+      "/sample-images/bags-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/bags-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/bags-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/bags-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 30,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0045",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-046",
+    "slug": "bags-sample-046",
+    "name": "Compact backpack 06",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Bags & accessories",
+    "price": 7502,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/bags-ocean.svg",
+      "/sample-images/bags-sand.svg",
+      "/sample-images/bags-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/bags-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/bags-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/bags-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 31,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0046",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-047",
+    "slug": "bags-sample-047",
+    "name": "Travel pouch 07",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Bags & accessories",
+    "price": 7639,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/bags-ocean.svg",
+      "/sample-images/bags-sand.svg",
+      "/sample-images/bags-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/bags-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/bags-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/bags-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 32,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0047",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-048",
+    "slug": "bags-sample-048",
+    "name": "Weekend bag 08",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Bags & accessories",
+    "price": 7776,
+    "compareAtPrice": 8776,
+    "images": [
+      "/sample-images/bags-ocean.svg",
+      "/sample-images/bags-sand.svg",
+      "/sample-images/bags-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/bags-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/bags-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/bags-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 33,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0048",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-049",
+    "slug": "bags-sample-049",
+    "name": "Everyday tote 09",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Bags & accessories",
+    "price": 7913,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/bags-ocean.svg",
+      "/sample-images/bags-sand.svg",
+      "/sample-images/bags-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/bags-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/bags-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/bags-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 34,
+    "featured": true,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0049",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-050",
+    "slug": "bags-sample-050",
+    "name": "Compact backpack 10",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Bags & accessories",
+    "price": 8050,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/bags-ocean.svg",
+      "/sample-images/bags-sand.svg",
+      "/sample-images/bags-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/bags-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/bags-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/bags-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 35,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0050",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-051",
+    "slug": "bags-sample-051",
+    "name": "Travel pouch 11",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Bags & accessories",
+    "price": 8187,
+    "compareAtPrice": 9187,
+    "images": [
+      "/sample-images/bags-ocean.svg",
+      "/sample-images/bags-sand.svg",
+      "/sample-images/bags-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/bags-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/bags-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/bags-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 0,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0051",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-052",
+    "slug": "bags-sample-052",
+    "name": "Weekend bag 12",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Bags & accessories",
+    "price": 8324,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/bags-ocean.svg",
+      "/sample-images/bags-sand.svg",
+      "/sample-images/bags-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/bags-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/bags-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/bags-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 37,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0052",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-053",
+    "slug": "bags-sample-053",
+    "name": "Everyday tote 13",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Bags & accessories",
+    "price": 8461,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/bags-ocean.svg",
+      "/sample-images/bags-sand.svg",
+      "/sample-images/bags-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/bags-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/bags-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/bags-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 38,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0053",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-054",
+    "slug": "bags-sample-054",
+    "name": "Compact backpack 14",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Bags & accessories",
+    "price": 8598,
+    "compareAtPrice": 9598,
+    "images": [
+      "/sample-images/bags-ocean.svg",
+      "/sample-images/bags-sand.svg",
+      "/sample-images/bags-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/bags-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/bags-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/bags-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 39,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0054",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-055",
+    "slug": "bags-sample-055",
+    "name": "Travel pouch 15",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Bags & accessories",
+    "price": 8735,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/bags-ocean.svg",
+      "/sample-images/bags-sand.svg",
+      "/sample-images/bags-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/bags-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/bags-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/bags-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 40,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0055",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-056",
+    "slug": "bags-sample-056",
+    "name": "Weekend bag 16",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Bags & accessories",
+    "price": 8872,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/bags-ocean.svg",
+      "/sample-images/bags-sand.svg",
+      "/sample-images/bags-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/bags-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/bags-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/bags-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 41,
+    "featured": true,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0056",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-057",
+    "slug": "bags-sample-057",
+    "name": "Everyday tote 17",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Bags & accessories",
+    "price": 9009,
+    "compareAtPrice": 10009,
+    "images": [
+      "/sample-images/bags-ocean.svg",
+      "/sample-images/bags-sand.svg",
+      "/sample-images/bags-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/bags-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/bags-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/bags-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 42,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0057",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-058",
+    "slug": "bags-sample-058",
+    "name": "Compact backpack 18",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Bags & accessories",
+    "price": 9146,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/bags-ocean.svg",
+      "/sample-images/bags-sand.svg",
+      "/sample-images/bags-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/bags-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/bags-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/bags-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 43,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0058",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-059",
+    "slug": "bags-sample-059",
+    "name": "Travel pouch 19",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Bags & accessories",
+    "price": 9283,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/bags-ocean.svg",
+      "/sample-images/bags-sand.svg",
+      "/sample-images/bags-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/bags-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/bags-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/bags-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 44,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0059",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-060",
+    "slug": "bags-sample-060",
+    "name": "Weekend bag 20",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Bags & accessories",
+    "price": 9420,
+    "compareAtPrice": 10420,
+    "images": [
+      "/sample-images/bags-ocean.svg",
+      "/sample-images/bags-sand.svg",
+      "/sample-images/bags-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/bags-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/bags-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/bags-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 15,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0060",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-061",
+    "slug": "electronics-sample-061",
+    "name": "Desk speaker 01",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Electronics",
+    "price": 9557,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/electronics-ocean.svg",
+      "/sample-images/electronics-sand.svg",
+      "/sample-images/electronics-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/electronics-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/electronics-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/electronics-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 16,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0061",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-062",
+    "slug": "electronics-sample-062",
+    "name": "Compact tablet 02",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Electronics",
+    "price": 9694,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/electronics-ocean.svg",
+      "/sample-images/electronics-sand.svg",
+      "/sample-images/electronics-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/electronics-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/electronics-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/electronics-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 17,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0062",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-063",
+    "slug": "electronics-sample-063",
+    "name": "Travel headphones 03",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Electronics",
+    "price": 9831,
+    "compareAtPrice": 10831,
+    "images": [
+      "/sample-images/electronics-ocean.svg",
+      "/sample-images/electronics-sand.svg",
+      "/sample-images/electronics-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/electronics-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/electronics-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/electronics-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 18,
+    "featured": true,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0063",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-064",
+    "slug": "electronics-sample-064",
+    "name": "Home display 04",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Electronics",
+    "price": 9968,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/electronics-ocean.svg",
+      "/sample-images/electronics-sand.svg",
+      "/sample-images/electronics-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/electronics-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/electronics-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/electronics-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 19,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0064",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-065",
+    "slug": "electronics-sample-065",
+    "name": "Desk speaker 05",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Electronics",
+    "price": 10105,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/electronics-ocean.svg",
+      "/sample-images/electronics-sand.svg",
+      "/sample-images/electronics-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/electronics-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/electronics-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/electronics-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 20,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0065",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-066",
+    "slug": "electronics-sample-066",
+    "name": "Compact tablet 06",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Electronics",
+    "price": 10242,
+    "compareAtPrice": 11242,
+    "images": [
+      "/sample-images/electronics-ocean.svg",
+      "/sample-images/electronics-sand.svg",
+      "/sample-images/electronics-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/electronics-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/electronics-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/electronics-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 21,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0066",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-067",
+    "slug": "electronics-sample-067",
+    "name": "Travel headphones 07",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Electronics",
+    "price": 10379,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/electronics-ocean.svg",
+      "/sample-images/electronics-sand.svg",
+      "/sample-images/electronics-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/electronics-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/electronics-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/electronics-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 22,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0067",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-068",
+    "slug": "electronics-sample-068",
+    "name": "Home display 08",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Electronics",
+    "price": 10516,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/electronics-ocean.svg",
+      "/sample-images/electronics-sand.svg",
+      "/sample-images/electronics-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/electronics-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/electronics-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/electronics-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 0,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0068",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-069",
+    "slug": "electronics-sample-069",
+    "name": "Desk speaker 09",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Electronics",
+    "price": 10653,
+    "compareAtPrice": 11653,
+    "images": [
+      "/sample-images/electronics-ocean.svg",
+      "/sample-images/electronics-sand.svg",
+      "/sample-images/electronics-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/electronics-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/electronics-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/electronics-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 24,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0069",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-070",
+    "slug": "electronics-sample-070",
+    "name": "Compact tablet 10",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Electronics",
+    "price": 10790,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/electronics-ocean.svg",
+      "/sample-images/electronics-sand.svg",
+      "/sample-images/electronics-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/electronics-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/electronics-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/electronics-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 25,
+    "featured": true,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0070",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-071",
+    "slug": "electronics-sample-071",
+    "name": "Travel headphones 11",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Electronics",
+    "price": 10927,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/electronics-ocean.svg",
+      "/sample-images/electronics-sand.svg",
+      "/sample-images/electronics-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/electronics-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/electronics-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/electronics-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 26,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0071",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-072",
+    "slug": "electronics-sample-072",
+    "name": "Home display 12",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Electronics",
+    "price": 11064,
+    "compareAtPrice": 12064,
+    "images": [
+      "/sample-images/electronics-ocean.svg",
+      "/sample-images/electronics-sand.svg",
+      "/sample-images/electronics-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/electronics-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/electronics-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/electronics-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 27,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0072",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-073",
+    "slug": "electronics-sample-073",
+    "name": "Desk speaker 13",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Electronics",
+    "price": 11201,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/electronics-ocean.svg",
+      "/sample-images/electronics-sand.svg",
+      "/sample-images/electronics-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/electronics-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/electronics-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/electronics-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 28,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0073",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-074",
+    "slug": "electronics-sample-074",
+    "name": "Compact tablet 14",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Electronics",
+    "price": 11338,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/electronics-ocean.svg",
+      "/sample-images/electronics-sand.svg",
+      "/sample-images/electronics-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/electronics-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/electronics-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/electronics-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 29,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0074",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-075",
+    "slug": "electronics-sample-075",
+    "name": "Travel headphones 15",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Electronics",
+    "price": 11475,
+    "compareAtPrice": 12475,
+    "images": [
+      "/sample-images/electronics-ocean.svg",
+      "/sample-images/electronics-sand.svg",
+      "/sample-images/electronics-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/electronics-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/electronics-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/electronics-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 30,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0075",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-076",
+    "slug": "electronics-sample-076",
+    "name": "Home display 16",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Electronics",
+    "price": 11612,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/electronics-ocean.svg",
+      "/sample-images/electronics-sand.svg",
+      "/sample-images/electronics-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/electronics-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/electronics-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/electronics-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 31,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0076",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-077",
+    "slug": "electronics-sample-077",
+    "name": "Desk speaker 17",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Electronics",
+    "price": 11749,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/electronics-ocean.svg",
+      "/sample-images/electronics-sand.svg",
+      "/sample-images/electronics-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/electronics-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/electronics-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/electronics-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 32,
+    "featured": true,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0077",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-078",
+    "slug": "electronics-sample-078",
+    "name": "Compact tablet 18",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Electronics",
+    "price": 11886,
+    "compareAtPrice": 12886,
+    "images": [
+      "/sample-images/electronics-ocean.svg",
+      "/sample-images/electronics-sand.svg",
+      "/sample-images/electronics-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/electronics-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/electronics-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/electronics-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 33,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0078",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-079",
+    "slug": "electronics-sample-079",
+    "name": "Travel headphones 19",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Electronics",
+    "price": 12023,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/electronics-ocean.svg",
+      "/sample-images/electronics-sand.svg",
+      "/sample-images/electronics-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/electronics-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/electronics-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/electronics-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 34,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0079",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-080",
+    "slug": "electronics-sample-080",
+    "name": "Home display 20",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Electronics",
+    "price": 12160,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/electronics-ocean.svg",
+      "/sample-images/electronics-sand.svg",
+      "/sample-images/electronics-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/electronics-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/electronics-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/electronics-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 35,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0080",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-081",
+    "slug": "beauty-sample-081",
+    "name": "Daily care bottle 01",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Beauty",
+    "price": 12297,
+    "compareAtPrice": 13297,
+    "images": [
+      "/sample-images/beauty-ocean.svg",
+      "/sample-images/beauty-sand.svg",
+      "/sample-images/beauty-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/beauty-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/beauty-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/beauty-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 36,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0081",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-082",
+    "slug": "beauty-sample-082",
+    "name": "Travel care set 02",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Beauty",
+    "price": 12434,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/beauty-ocean.svg",
+      "/sample-images/beauty-sand.svg",
+      "/sample-images/beauty-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/beauty-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/beauty-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/beauty-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 37,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0082",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-083",
+    "slug": "beauty-sample-083",
+    "name": "Gentle wash 03",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Beauty",
+    "price": 12571,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/beauty-ocean.svg",
+      "/sample-images/beauty-sand.svg",
+      "/sample-images/beauty-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/beauty-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/beauty-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/beauty-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 38,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0083",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-084",
+    "slug": "beauty-sample-084",
+    "name": "Everyday cream 04",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Beauty",
+    "price": 12708,
+    "compareAtPrice": 13708,
+    "images": [
+      "/sample-images/beauty-ocean.svg",
+      "/sample-images/beauty-sand.svg",
+      "/sample-images/beauty-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/beauty-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/beauty-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/beauty-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 39,
+    "featured": true,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0084",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-085",
+    "slug": "beauty-sample-085",
+    "name": "Daily care bottle 05",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Beauty",
+    "price": 12845,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/beauty-ocean.svg",
+      "/sample-images/beauty-sand.svg",
+      "/sample-images/beauty-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/beauty-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/beauty-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/beauty-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 0,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0085",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-086",
+    "slug": "beauty-sample-086",
+    "name": "Travel care set 06",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Beauty",
+    "price": 12982,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/beauty-ocean.svg",
+      "/sample-images/beauty-sand.svg",
+      "/sample-images/beauty-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/beauty-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/beauty-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/beauty-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 41,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0086",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-087",
+    "slug": "beauty-sample-087",
+    "name": "Gentle wash 07",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Beauty",
+    "price": 13119,
+    "compareAtPrice": 14119,
+    "images": [
+      "/sample-images/beauty-ocean.svg",
+      "/sample-images/beauty-sand.svg",
+      "/sample-images/beauty-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/beauty-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/beauty-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/beauty-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 42,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0087",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-088",
+    "slug": "beauty-sample-088",
+    "name": "Everyday cream 08",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Beauty",
+    "price": 1256,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/beauty-ocean.svg",
+      "/sample-images/beauty-sand.svg",
+      "/sample-images/beauty-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/beauty-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/beauty-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/beauty-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 43,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0088",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-089",
+    "slug": "beauty-sample-089",
+    "name": "Daily care bottle 09",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Beauty",
+    "price": 1393,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/beauty-ocean.svg",
+      "/sample-images/beauty-sand.svg",
+      "/sample-images/beauty-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/beauty-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/beauty-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/beauty-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 44,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0089",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-090",
+    "slug": "beauty-sample-090",
+    "name": "Travel care set 10",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Beauty",
+    "price": 1530,
+    "compareAtPrice": 2530,
+    "images": [
+      "/sample-images/beauty-ocean.svg",
+      "/sample-images/beauty-sand.svg",
+      "/sample-images/beauty-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/beauty-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/beauty-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/beauty-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 15,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0090",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-091",
+    "slug": "beauty-sample-091",
+    "name": "Gentle wash 11",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Beauty",
+    "price": 1667,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/beauty-ocean.svg",
+      "/sample-images/beauty-sand.svg",
+      "/sample-images/beauty-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/beauty-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/beauty-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/beauty-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 16,
+    "featured": true,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0091",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-092",
+    "slug": "beauty-sample-092",
+    "name": "Everyday cream 12",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Beauty",
+    "price": 1804,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/beauty-ocean.svg",
+      "/sample-images/beauty-sand.svg",
+      "/sample-images/beauty-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/beauty-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/beauty-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/beauty-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 17,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0092",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-093",
+    "slug": "beauty-sample-093",
+    "name": "Daily care bottle 13",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Beauty",
+    "price": 1941,
+    "compareAtPrice": 2941,
+    "images": [
+      "/sample-images/beauty-ocean.svg",
+      "/sample-images/beauty-sand.svg",
+      "/sample-images/beauty-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/beauty-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/beauty-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/beauty-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 18,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0093",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-094",
+    "slug": "beauty-sample-094",
+    "name": "Travel care set 14",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Beauty",
+    "price": 2078,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/beauty-ocean.svg",
+      "/sample-images/beauty-sand.svg",
+      "/sample-images/beauty-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/beauty-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/beauty-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/beauty-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 19,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0094",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-095",
+    "slug": "beauty-sample-095",
+    "name": "Gentle wash 15",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Beauty",
+    "price": 2215,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/beauty-ocean.svg",
+      "/sample-images/beauty-sand.svg",
+      "/sample-images/beauty-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/beauty-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/beauty-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/beauty-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 20,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0095",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-096",
+    "slug": "beauty-sample-096",
+    "name": "Everyday cream 16",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Beauty",
+    "price": 2352,
+    "compareAtPrice": 3352,
+    "images": [
+      "/sample-images/beauty-ocean.svg",
+      "/sample-images/beauty-sand.svg",
+      "/sample-images/beauty-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/beauty-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/beauty-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/beauty-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 21,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0096",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-097",
+    "slug": "beauty-sample-097",
+    "name": "Daily care bottle 17",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Beauty",
+    "price": 2489,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/beauty-ocean.svg",
+      "/sample-images/beauty-sand.svg",
+      "/sample-images/beauty-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/beauty-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/beauty-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/beauty-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 22,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0097",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-098",
+    "slug": "beauty-sample-098",
+    "name": "Travel care set 18",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Beauty",
+    "price": 2626,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/beauty-ocean.svg",
+      "/sample-images/beauty-sand.svg",
+      "/sample-images/beauty-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/beauty-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/beauty-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/beauty-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 23,
+    "featured": true,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0098",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-099",
+    "slug": "beauty-sample-099",
+    "name": "Gentle wash 19",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Beauty",
+    "price": 2763,
+    "compareAtPrice": 3763,
+    "images": [
+      "/sample-images/beauty-ocean.svg",
+      "/sample-images/beauty-sand.svg",
+      "/sample-images/beauty-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/beauty-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/beauty-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/beauty-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 24,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0099",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-100",
+    "slug": "beauty-sample-100",
+    "name": "Everyday cream 20",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Beauty",
+    "price": 2900,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/beauty-ocean.svg",
+      "/sample-images/beauty-sand.svg",
+      "/sample-images/beauty-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/beauty-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/beauty-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/beauty-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 25,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0100",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-101",
+    "slug": "home-sample-101",
+    "name": "Reading chair 01",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Home & living",
+    "price": 3037,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/home-ocean.svg",
+      "/sample-images/home-sand.svg",
+      "/sample-images/home-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/home-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/home-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/home-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 26,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0101",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-102",
+    "slug": "home-sample-102",
+    "name": "Soft cushion 02",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Home & living",
+    "price": 3174,
+    "compareAtPrice": 4174,
+    "images": [
+      "/sample-images/home-ocean.svg",
+      "/sample-images/home-sand.svg",
+      "/sample-images/home-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/home-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/home-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/home-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 0,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0102",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-103",
+    "slug": "home-sample-103",
+    "name": "Desk organizer 03",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Home & living",
+    "price": 3311,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/home-ocean.svg",
+      "/sample-images/home-sand.svg",
+      "/sample-images/home-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/home-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/home-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/home-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 28,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0103",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-104",
+    "slug": "home-sample-104",
+    "name": "Everyday storage 04",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Home & living",
+    "price": 3448,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/home-ocean.svg",
+      "/sample-images/home-sand.svg",
+      "/sample-images/home-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/home-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/home-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/home-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 29,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0104",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-105",
+    "slug": "home-sample-105",
+    "name": "Reading chair 05",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Home & living",
+    "price": 3585,
+    "compareAtPrice": 4585,
+    "images": [
+      "/sample-images/home-ocean.svg",
+      "/sample-images/home-sand.svg",
+      "/sample-images/home-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/home-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/home-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/home-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 30,
+    "featured": true,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0105",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-106",
+    "slug": "home-sample-106",
+    "name": "Soft cushion 06",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Home & living",
+    "price": 3722,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/home-ocean.svg",
+      "/sample-images/home-sand.svg",
+      "/sample-images/home-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/home-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/home-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/home-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 31,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0106",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-107",
+    "slug": "home-sample-107",
+    "name": "Desk organizer 07",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Home & living",
+    "price": 3859,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/home-ocean.svg",
+      "/sample-images/home-sand.svg",
+      "/sample-images/home-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/home-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/home-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/home-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 32,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0107",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-108",
+    "slug": "home-sample-108",
+    "name": "Everyday storage 08",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Home & living",
+    "price": 3996,
+    "compareAtPrice": 4996,
+    "images": [
+      "/sample-images/home-ocean.svg",
+      "/sample-images/home-sand.svg",
+      "/sample-images/home-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/home-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/home-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/home-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 33,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0108",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-109",
+    "slug": "home-sample-109",
+    "name": "Reading chair 09",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Home & living",
+    "price": 4133,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/home-ocean.svg",
+      "/sample-images/home-sand.svg",
+      "/sample-images/home-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/home-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/home-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/home-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 34,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0109",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-110",
+    "slug": "home-sample-110",
+    "name": "Soft cushion 10",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Home & living",
+    "price": 4270,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/home-ocean.svg",
+      "/sample-images/home-sand.svg",
+      "/sample-images/home-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/home-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/home-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/home-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 35,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0110",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-111",
+    "slug": "home-sample-111",
+    "name": "Desk organizer 11",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Home & living",
+    "price": 4407,
+    "compareAtPrice": 5407,
+    "images": [
+      "/sample-images/home-ocean.svg",
+      "/sample-images/home-sand.svg",
+      "/sample-images/home-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/home-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/home-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/home-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 36,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0111",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-112",
+    "slug": "home-sample-112",
+    "name": "Everyday storage 12",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Home & living",
+    "price": 4544,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/home-ocean.svg",
+      "/sample-images/home-sand.svg",
+      "/sample-images/home-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/home-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/home-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/home-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 37,
+    "featured": true,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0112",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-113",
+    "slug": "home-sample-113",
+    "name": "Reading chair 13",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Home & living",
+    "price": 4681,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/home-ocean.svg",
+      "/sample-images/home-sand.svg",
+      "/sample-images/home-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/home-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/home-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/home-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 38,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0113",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-114",
+    "slug": "home-sample-114",
+    "name": "Soft cushion 14",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Home & living",
+    "price": 4818,
+    "compareAtPrice": 5818,
+    "images": [
+      "/sample-images/home-ocean.svg",
+      "/sample-images/home-sand.svg",
+      "/sample-images/home-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/home-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/home-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/home-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 39,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0114",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-115",
+    "slug": "home-sample-115",
+    "name": "Desk organizer 15",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Home & living",
+    "price": 4955,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/home-ocean.svg",
+      "/sample-images/home-sand.svg",
+      "/sample-images/home-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/home-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/home-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/home-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 40,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0115",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-116",
+    "slug": "home-sample-116",
+    "name": "Everyday storage 16",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Home & living",
+    "price": 5092,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/home-ocean.svg",
+      "/sample-images/home-sand.svg",
+      "/sample-images/home-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/home-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/home-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/home-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 41,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0116",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-117",
+    "slug": "home-sample-117",
+    "name": "Reading chair 17",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Home & living",
+    "price": 5229,
+    "compareAtPrice": 6229,
+    "images": [
+      "/sample-images/home-ocean.svg",
+      "/sample-images/home-sand.svg",
+      "/sample-images/home-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/home-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/home-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/home-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 42,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0117",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-118",
+    "slug": "home-sample-118",
+    "name": "Soft cushion 18",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Home & living",
+    "price": 5366,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/home-ocean.svg",
+      "/sample-images/home-sand.svg",
+      "/sample-images/home-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/home-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/home-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/home-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 43,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0118",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-119",
+    "slug": "home-sample-119",
+    "name": "Desk organizer 19",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Home & living",
+    "price": 5503,
+    "compareAtPrice": 0,
+    "images": [
+      "/sample-images/home-ocean.svg",
+      "/sample-images/home-sand.svg",
+      "/sample-images/home-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/home-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/home-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/home-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 0,
+    "featured": true,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0119",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "sample-120",
+    "slug": "home-sample-120",
+    "name": "Everyday storage 20",
+    "description": "An original demonstration catalog entry for exploring product filters, color selection, stock and checkout. The illustration is a generic placeholder, not a photograph or a claim of real inventory.",
+    "category": "Home & living",
+    "price": 5640,
+    "compareAtPrice": 6640,
+    "images": [
+      "/sample-images/home-ocean.svg",
+      "/sample-images/home-sand.svg",
+      "/sample-images/home-charcoal.svg"
+    ],
+    "colors": [
+      {
+        "name": "Ocean",
+        "hex": "#2d7b82",
+        "image": "/sample-images/home-ocean.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1ad78",
+        "image": "/sample-images/home-sand.svg",
+        "generatedPreview": true
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#555d67",
+        "image": "/sample-images/home-charcoal.svg",
+        "generatedPreview": true
+      }
+    ],
+    "sizes": [],
+    "stock": 15,
+    "featured": false,
+    "active": true,
+    "sample": true,
+    "sku": "DEMO-0120",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  }
+]

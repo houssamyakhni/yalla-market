@@ -1,0 +1,45 @@
+# Dependencies and generated build/deployment output
+node_modules/
+.next/
+.netlify/
+.vercel/
+.openai/
+out/
+dist/
+coverage/
+*.tsbuildinfo
+next-env.d.ts
+
+# Private environments and access information
+.env
+.env.*
+!.env.example
+admin-access.txt
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+
+# Runtime/customer data, backups and local verification reports
+data/
+.data/
+backups/
+dumps/
+*.db
+*.sqlite*
+*-VERIFICATION.json
+*QA-RESULTS.json
+DEPLOYMENT.json
+HOSTING-CONFIGURATION.json
+VARIANT-PROMPTS-*.json
+*-PROVENANCE.json
+*.log
+*.zip
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
